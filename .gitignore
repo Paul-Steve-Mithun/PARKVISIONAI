@@ -1,0 +1,4 @@
+#ignoring configure files
+config.json
+config_parking.json
+credentials.json
